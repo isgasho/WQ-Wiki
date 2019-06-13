@@ -13,10 +13,10 @@
 
 ### 项目预览
 
-- 登录页面
+> 登录页面
 
 ![](https://github.com/PythonTra1nee/WQ-Wiki/blob/master/display/login.png)
 
-- 详情页
+> 内容页面
 
 ![](https://github.com/PythonTra1nee/WQ-Wiki/blob/master/display/detail.png)
