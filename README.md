@@ -1,8 +1,6 @@
 # WQ-Wiki
 
-![](https://img.shields.io/badge/Python-v3.6%2B-blue.svg)![]
-(https://img.shields.io/badge/Django-v2.0%2B-yellow.svg) ![]
-(https://img.shields.io/badge/MySQL-v5.7-blue.svg) 
+![](https://img.shields.io/badge/Python-v3.6%2B-blue.svg) ![](https://img.shields.io/badge/Django-v2.0%2B-yellow.svg)  ![](https://img.shields.io/badge/MySQL-v5.7-blue.svg)
 
 ### 项目正在努力开发中 ...
 
